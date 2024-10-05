@@ -124,7 +124,7 @@ header {
 .text {
   position: absolute;
   font-size: 2.5vw;
-  color: var(--Secondary-color);
+  color:#000;
   top: 5rem;
   left: 5rem;
   line-height: 0.8;
